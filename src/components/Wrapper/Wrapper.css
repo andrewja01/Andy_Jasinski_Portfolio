@@ -1,0 +1,10 @@
+.wrapper {
+  background: linear-gradient(rgba(2, 1, 2, 0.45), rgba(101, 32, 133, 0.45)),
+    url('../../images/yosemite.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
